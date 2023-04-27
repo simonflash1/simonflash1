@@ -1,3 +1,37 @@
+Abajo en español :)
+
+### Hi!, my name is Nestor Emmanuel Lizarraga!
+
+### 📌 Who am I?
+
+I am a Full Stack web developer in continuous learning process, and also a music teacher who is transitioning to the IT industry.
+
+### 📌 What do I do?
+
+Currently, I am dedicated to studying programming by doing projects that allow me to advance in my training both at the soyHenry bootcamp and at university, as well as self-taught.
+
+### 📌 Where am I headed?
+
+Since I was a child, I have been interested and curious about what can be achieved with a computer. My idea is to use code to solve everyday problems more efficiently.
+
+### 📌 What technologies do I use?
+
+- Javascript / Typescript
+- React
+- Redux / ReduxToolkit
+- Node.js
+- Express.js
+- PostgreSQL
+- Sequelize
+- MongoDB
+- Mongoose
+- GitHub
+
+### 📌 Don't hesitate to contact me
+Correo: nestor.emmanuel.lizarraga@gmail.com
+LinkedIn: https://www.linkedin.com/in/emmalizar/
+
+
 ### Hola, mi nombre es Nestor Emmanuel Lizarraga!
 
 ### 📌 Quien soy?
